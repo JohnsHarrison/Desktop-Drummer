@@ -56,9 +56,9 @@ function hiHatHit(){
         <h1>Playing with keys</h1>
         <p><span>Snare</span> - 'S'</p>
         <p><span> Kick</span> - 'K' / 'L' / 'Space Bar'</p>
-        <p><span>Hi-Hat closed</span> - 'H'</p>
+        <p><span>Hi-Hat open</span> - 'H'</p>
         <p><span>Hi-Hat pedal</span> - 'Shift'</p>
-        <p><span>Hi-Hat open</span> - 'Shift'+'H'</p>
+        <p><span>Hi-Hat closed</span> - 'Shift'+'H'</p>
         <p><span>Crash</span> - 'C' / 'Y'</p>
         <p><span>Ride</span> - 'R' / 'J'</p>
         <p><span>Small Tom</span> - 'Q'</p>
